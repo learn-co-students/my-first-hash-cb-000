@@ -1,0 +1,20 @@
+
+Challenge I: Instantiating Hashes
+  #my_hash
+    uses the literal constructor to create a hash that contains key/value pairs
+
+Challenge II: Hash with Data
+  #shipping_manifest
+    sets a variable called shipping_manifest equal to a hash with key/value pairs describing old-timey items
+
+Challenge III: Retrieving Data
+  #retrieval
+    operates on the shipping_manifest hash to return the value of the 'oil paintings' key
+
+Challenge IV: Adding Data
+  #adding
+    operates on the shipping_manifest hash to add a key/value pair
+
+Finished in 0.01072 seconds (files took 0.36779 seconds to load)
+4 examples, 0 failures
+
